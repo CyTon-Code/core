@@ -77,6 +77,14 @@ class Array
       
       tools__log::write ("Array");
     }
+    
+    /* функция копирования массива в мой массив в начале */  
+    Array (std::vector<std::string> _array)
+    {
+      this->set (_array);
+      
+      tools__log::coptied ("Array");
+    }
   
   /* TODO добавить функции */
   public:
