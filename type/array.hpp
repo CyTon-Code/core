@@ -89,7 +89,21 @@ class Array
   /* важные */
   public:
   
-//     /* where is _value in the vector? */
+    /* есть _value в векторе? */
+    bool
+    check (const std::string &_value)
+    {
+      for (auto i: this->array)
+        {
+          if (i == _value)
+            {
+              return true;
+            }
+        }
+      return false;
+    }  
+  
+//     /* где находится элемент или -1? */
 //     int
 //     find (const std::string &_value)
 //     {
