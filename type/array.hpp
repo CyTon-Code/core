@@ -86,6 +86,17 @@ class Array
       tools__log::coptied ("Array");
     }
   
+  /* важные */
+  public:
+  
+//     /* where is _value in the vector? */
+//     int
+//     find (const std::string &_value)
+//     {
+//       // return this->array.get_iterator(_value);
+//     }
+  
+  
   /* TODO добавить функции */
   public:
       
