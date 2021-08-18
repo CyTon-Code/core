@@ -40,8 +40,25 @@
 
 /* */
 class Array
-{
-  /* TODO добавити функции */
+{  
+  /* Самые важные */
+  public:
+  
+      /* отдать мой массив */
+    std::vector<std::string>
+    get ()
+    {
+      return this->array;
+    }
+    
+    /* принять новый массив */
+    void
+    set (std::vector<std::string> _array)
+    {
+      this->array = _array;
+    }
+  
+  /* TODO добавить функции */
   public:
       
     /* */
@@ -55,7 +72,7 @@ class Array
     /* get end element */
     // std::string
     // end ()
-     
+
   private:
   
     /* my lines */ 
