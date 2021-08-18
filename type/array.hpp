@@ -44,10 +44,28 @@ class Array
   /* Самые важные */
   public:
   
-      /* отдать мой массив */
+    /* constructor function */
+    Array ()
+    {
+      std::cout << std::endl;
+      tools__log::created ("Array");
+    }
+
+    /* destructor function */
+    ~Array ()
+    {
+      this->clear ();
+
+      tools__log::killed ("Array");
+      std::cout << std::endl;
+    }
+  
+    /* отдать мой массив */
     std::vector<std::string>
     get ()
     {
+      tools__log::read ("Array");
+      
       return this->array;
     }
     
@@ -56,6 +74,8 @@ class Array
     set (std::vector<std::string> _array)
     {
       this->array = _array;
+      
+      tools__log::write ("Array");
     }
   
   /* TODO добавить функции */
