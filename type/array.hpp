@@ -103,14 +103,6 @@ class Array
       return false;
     }  
   
-//     /* где находится элемент или -1? */
-//     int
-//     find (const std::string &_value)
-//     {
-//       // return this->array.get_iterator(_value);
-//     }
-  
-  
   /* TODO добавить функции */
   public:
       
@@ -121,6 +113,12 @@ class Array
     /* */
     // int
     // search (const std::string &_value)
+    // /* где находится элемент или -1? */
+    // int
+    // find (const std::string &_value)
+    // {
+    // // return this->array.get_iterator(_value);
+    // }
   
     /* get end element */
     // std::string
