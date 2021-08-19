@@ -35,8 +35,8 @@
  */
 
 /* */
-#ifndef GAME_OBJECT_ARRAY
-#define GAME_OBJECT_ARRAY
+#ifndef GAME_ARRAY
+#define GAME_ARRAY
 
 /* */
 class Array
@@ -130,4 +130,4 @@ class Array
     std::vector<std::string> array;
 };
 
-#endif /* GAME_OBJECT_ARRAY */
+#endif /* GAME_ARRAY */
