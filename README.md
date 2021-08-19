@@ -19,3 +19,13 @@ My standard:
 - I chose [С++](https://github.com/topics/cpp) as my programming language // It's easier for me to program with it.
 - More information will be given in the file [STYLE.md](DOC/STYLE.md)
 
+# info
+This will be the engine (a set of libraries-parts for the game)
+
+In engine you find:
+- [data types](type/README.md) (непосредственно из-за уникальности [С++](https://github.com/topics/cpp))
+- [game objects](lib/README.md) которые наследуются от [Object](lib/object.hpp)
+- other auxiliary temporary [tools](tools/README.md)
+
+If you find something you can fix: Write! cytoncode@gmail.com or here
+
