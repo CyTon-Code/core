@@ -1,4 +1,4 @@
-# lang
+# README
 
 This README is available in:
 [🇷🇺](README_RU.md)
