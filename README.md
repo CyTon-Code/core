@@ -29,3 +29,10 @@ In engine you find:
 
 If you find something you can fix: Write! cytoncode@gmail.com or here
 
+# game-
+- I want to make a game similar to Orion Online, Project Galaxy, Minecraft (or rather, the engine based on them and after the game itself).
+- core репозиторий я создал как чистый лист репо [game-](https://github.com/CyTon-Code/game-)
+- Ведь у меня есть привычка приблежать все к состоянию свалки ...
+- Поэтому я попытаюсь сюда перетащить все необходимое из [game-](https://github.com/CyTon-Code/game-)
+- Попутно постараюсь максимально подробно описать об каждой строчке
+
