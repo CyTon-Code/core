@@ -1,3 +1,10 @@
+# WARN
+
+I use translation tools:
+[DeepL Translate](https://www.deepl.com/),
+[Google Translate](https://translate.google.com/)
+and my knowledge of English language
+
 # README
 
 This README is available in:
@@ -31,8 +38,8 @@ If you find something you can fix: Write! cytoncode@gmail.com or here
 
 # game-
 - I want to make a game similar to Orion Online, Project Galaxy, Minecraft (or rather, the engine based on them and after the game itself).
-- core репозиторий я создал как чистый лист репо [game-](https://github.com/CyTon-Code/game-)
-- Ведь у меня есть привычка приблежать все к состоянию свалки ...
-- Поэтому я попытаюсь сюда перетащить все необходимое из [game-](https://github.com/CyTon-Code/game-)
-- Попутно постараюсь максимально подробно описать об каждой строчке
+- I created this repository as a pure [game-](https://github.com/CyTon-Code/game-) repo list.
+- After all, I have a habit of cluttering up everything I do ...
+- So I will try to drag everything I need from [game-](https://github.com/CyTon-Code/game-) here.
+- At the same time, I will try to describe each line of code in as much detail as possible 
 
